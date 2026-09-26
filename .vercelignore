@@ -1,0 +1,14 @@
+.git/
+.vercel/
+dist/
+node_modules/
+.tools/
+.env
+.env.*
+.DS_Store
+*.log
+.codex/
+.agents/
+tests/
+README.md
+server.rb

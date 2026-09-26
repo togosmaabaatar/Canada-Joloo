@@ -1,0 +1,233 @@
+{
+  "stop": {
+    "pdfPage": 28,
+    "printedPage": 26,
+    "crop": {
+      "y": 1445,
+      "x": 45,
+      "height": 180,
+      "width": 180
+    },
+    "source": "../guide/alberta-driver-guide-2026.pdf"
+  },
+  "yield": {
+    "pdfPage": 28,
+    "printedPage": 26,
+    "crop": {
+      "y": 264,
+      "x": 533,
+      "height": 177,
+      "width": 204
+    },
+    "source": "../guide/alberta-driver-guide-2026.pdf"
+  },
+  "wrong-way": {
+    "pdfPage": 28,
+    "printedPage": 26,
+    "crop": {
+      "y": 630,
+      "x": 534,
+      "height": 140,
+      "width": 205
+    },
+    "source": "../guide/alberta-driver-guide-2026.pdf"
+  },
+  "do-not-enter": {
+    "pdfPage": 28,
+    "printedPage": 26,
+    "crop": {
+      "y": 880,
+      "x": 534,
+      "height": 175,
+      "width": 175
+    },
+    "source": "../guide/alberta-driver-guide-2026.pdf"
+  },
+  "railway": {
+    "pdfPage": 28,
+    "printedPage": 26,
+    "crop": {
+      "y": 1135,
+      "x": 530,
+      "height": 185,
+      "width": 185
+    },
+    "source": "../guide/alberta-driver-guide-2026.pdf"
+  },
+  "no-stop-tracks": {
+    "pdfPage": 28,
+    "printedPage": 26,
+    "crop": {
+      "y": 1420,
+      "x": 532,
+      "height": 230,
+      "width": 190
+    },
+    "source": "../guide/alberta-driver-guide-2026.pdf"
+  },
+  "no-left": {
+    "pdfPage": 31,
+    "printedPage": 29,
+    "crop": {
+      "y": 320,
+      "x": 584,
+      "height": 174,
+      "width": 174
+    },
+    "source": "../guide/alberta-driver-guide-2026.pdf"
+  },
+  "no-right": {
+    "pdfPage": 31,
+    "printedPage": 29,
+    "crop": {
+      "y": 320,
+      "x": 830,
+      "height": 174,
+      "width": 175
+    },
+    "source": "../guide/alberta-driver-guide-2026.pdf"
+  },
+  "no-uturn": {
+    "pdfPage": 31,
+    "printedPage": 29,
+    "crop": {
+      "y": 558,
+      "x": 583,
+      "height": 176,
+      "width": 176
+    },
+    "source": "../guide/alberta-driver-guide-2026.pdf"
+  },
+  "no-passing": {
+    "pdfPage": 31,
+    "printedPage": 29,
+    "crop": {
+      "y": 557,
+      "x": 831,
+      "height": 180,
+      "width": 176
+    },
+    "source": "../guide/alberta-driver-guide-2026.pdf"
+  },
+  "left-only": {
+    "pdfPage": 31,
+    "printedPage": 29,
+    "crop": {
+      "y": 285,
+      "x": 96,
+      "height": 175,
+      "width": 175
+    },
+    "source": "../guide/alberta-driver-guide-2026.pdf"
+  },
+  "straight-only": {
+    "pdfPage": 31,
+    "printedPage": 29,
+    "crop": {
+      "y": 757,
+      "x": 96,
+      "height": 170,
+      "width": 175
+    },
+    "source": "../guide/alberta-driver-guide-2026.pdf"
+  },
+  "red-light": {
+    "pdfPage": 24,
+    "printedPage": 22,
+    "crop": {
+      "y": 855,
+      "x": 47,
+      "height": 98,
+      "width": 202
+    },
+    "source": "../guide/alberta-driver-guide-2026.pdf"
+  },
+  "yellow-light": {
+    "pdfPage": 24,
+    "printedPage": 22,
+    "crop": {
+      "y": 414,
+      "x": 534,
+      "height": 94,
+      "width": 202
+    },
+    "source": "../guide/alberta-driver-guide-2026.pdf"
+  },
+  "green-light": {
+    "pdfPage": 24,
+    "printedPage": 22,
+    "crop": {
+      "y": 1147,
+      "x": 534,
+      "height": 94,
+      "width": 202
+    },
+    "source": "../guide/alberta-driver-guide-2026.pdf"
+  },
+  "right-of-way": {
+    "pdfPage": 62,
+    "printedPage": 60,
+    "crop": {
+      "y": 78,
+      "x": 45,
+      "height": 296,
+      "width": 472
+    },
+    "source": "../guide/alberta-driver-guide-2026.pdf"
+  },
+  "left-turn": {
+    "pdfPage": 62,
+    "printedPage": 60,
+    "crop": {
+      "y": 487,
+      "x": 45,
+      "height": 340,
+      "width": 472
+    },
+    "source": "../guide/alberta-driver-guide-2026.pdf"
+  },
+  "t-intersection": {
+    "pdfPage": 62,
+    "printedPage": 60,
+    "crop": {
+      "y": 78,
+      "x": 532,
+      "height": 289,
+      "width": 470
+    },
+    "source": "../guide/alberta-driver-guide-2026.pdf"
+  },
+  "following-distance": {
+    "pdfPage": 92,
+    "printedPage": 90,
+    "crop": {
+      "y": 1385,
+      "x": 46,
+      "height": 252,
+      "width": 955
+    },
+    "source": "../guide/alberta-driver-guide-2026.pdf"
+  },
+  "school-bus": {
+    "pdfPage": 103,
+    "printedPage": 101,
+    "crop": {
+      "y": 744,
+      "x": 98,
+      "height": 895,
+      "width": 956
+    },
+    "source": "../guide/alberta-driver-guide-2026.pdf"
+  },
+  "trailer-turn": {
+    "pdfPage": 123,
+    "printedPage": 121,
+    "crop": {
+      "y": 64,
+      "x": 533,
+      "height": 418,
+      "width": 468
+    },
+    "source": "../guide/alberta-driver-guide-2026.pdf"
+  }
+}
