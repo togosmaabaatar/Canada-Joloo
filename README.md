@@ -1,5 +1,7 @@
 # Canada Joloo — Alberta Class 7
 
+[Live website](https://canada-joloo.vercel.app) · [GitHub repository](https://github.com/togosmaabaatar/Canada-Joloo)
+
 HTML, CSS and vanilla JavaScript. No package installation or build step.
 
 ## Run locally

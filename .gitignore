@@ -10,3 +10,5 @@ node_modules/
 *.log
 .codex/
 .agents/
+.vercel
+.env*
