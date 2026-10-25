@@ -5,3 +5,6 @@ main:focus{outline:none}
 .reader pre{font-family:inherit;font-size:14px;line-height:1.8}
 .brand-name{font-size:23px;letter-spacing:-.7px;line-height:1.1;white-space:nowrap}
 @media(max-width:640px){.brand-name{font-size:17px;letter-spacing:-.4px}.brand-name span{display:block}}
+
+/* Portfolio credit. */
+footer{flex-wrap:wrap}footer .site-credit{text-decoration:underline;text-underline-offset:4px;line-height:1.7}
